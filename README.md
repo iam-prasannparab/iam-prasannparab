@@ -60,13 +60,6 @@ I'm an aspiring **DevOps Engineer** from India, currently focused on gaining han
 
 </div>
 
----
 
-<div align="center">
-  
-### 💡 "Building the future, one deployment at a time" 
 
-![Profile Views](https://komarev.com/ghpvc/?username=LondheShubham153&color=brightgreen&style=flat-square)
-[![GitHub followers](https://img.shields.io/github/followers/LondheShubham153?label=Follow&style=social)](https://github.com/LondheShubham153)
 
-</div>
