@@ -53,7 +53,7 @@ I'm an aspiring **DevOps Engineer** from India, currently focused on gaining han
 
 <div align="center">
   
-[![Website](https://img.shields.io/badge/Website-trainwithshubham.com-blue?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.trainwithshubham.com)
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prasannparab/)
 [![Hashnode](https://img.shields.io/badge/Hashnode-DevOps%20Blogs-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://your-hashnode-url)
 [![Email](https://img.shields.io/badge/Email-prasannparab@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:prasannparab.devops@gmail.com)
