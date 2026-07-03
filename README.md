@@ -1,7 +1,6 @@
 <div align="center">
-  
-# Hello Friends 👋
 
+# Hello Friends 👋
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=DevOps+Engineer)](https://git.io/typing-svg)
 
 </div>
@@ -9,7 +8,6 @@
 ---
 
 ## 🚀 About Me
-
 I'm an aspiring **DevOps Engineer** from India, currently focused on gaining hands-on experience in **cloud, automation, and infrastructure**. I enjoy working on real-world projects to understand how systems are built, deployed, and scaled in production.
 
 - 🔭 Currently working on **Docker, CI/CD pipelines, and cloud deployments**
@@ -17,7 +15,6 @@ I'm an aspiring **DevOps Engineer** from India, currently focused on gaining han
 - 🛠️ Building projects to strengthen **practical DevOps skills**
 - 💬 Ask me about **Linux, Docker, basic CI/CD, and cloud fundamentals**
 - ⚡ Fun fact: I prefer learning by **breaking things and fixing them 😄**
-
 
 ---
 
@@ -50,13 +47,11 @@ I'm an aspiring **DevOps Engineer** from India, currently focused on gaining han
 ---
 
 ## 🌐 Connect With Me
-
 <div align="center">
-  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prasannparab/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin-handle/)
 [![Hashnode](https://img.shields.io/badge/Hashnode-DevOps%20Blogs-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://your-hashnode-url)
-[![Email](https://img.shields.io/badge/Email-prasannparab@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:prasannparab.devops@gmail.com)
+[![Email](https://img.shields.io/badge/Email-your.email@example.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
 
 </div>
 
