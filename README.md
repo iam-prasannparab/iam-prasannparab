@@ -62,5 +62,5 @@ I'm an aspiring **DevOps Engineer** from India, currently focused on gaining han
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prasannparab/)
-[![Email](https://img.shields.io/badge/Email-your.email@example.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:prasannparab.devops@gmail.com)
+[![Email](https://img.shields.io/badge/Email-prasannparab.devops@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:prasannparab.devops@gmail.com)
 </div>
