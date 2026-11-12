@@ -8,13 +8,7 @@
 ---
 
 ## 🚀 About Me
-I'm an aspiring **DevOps Engineer** from India, currently focused on gaining hands-on experience in **cloud, automation, and infrastructure**. I enjoy working on real-world projects to understand how systems are built, deployed, and scaled in production.
-
-- 🔭 Currently working on **Docker, CI/CD pipelines, and cloud deployments**
-- 🌱 Learning **Kubernetes, Terraform, and advanced DevOps practices**
-- 🛠️ Building projects to strengthen **practical DevOps skills**
-- 💬 Ask me about **Linux, Docker, basic CI/CD, and cloud fundamentals**
-- ⚡ Fun fact: I prefer learning by **breaking things and fixing them 😄**
+Associate DevOps Engineer with 1.5 years of hands-on experience in building CI/CD pipelines, deploying containerized applications on Kubernetes, and automating AWS infrastructure with Terraform. Experienced with Linux, Jenkins, Docker, Ansible, Kubernetes, Terraform, Prometheus, Grafana, and AWS, with a focus on improving release speed and system reliability.
 
 ---
 
